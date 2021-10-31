@@ -1,7 +1,7 @@
 import pyautogui
 from pynput.keyboard import *
 
-#  ======== settings ========
+#  ======== optiones ========
 delay = 1  # in seconds
 resume_key = Key.f1
 pause_key = Key.f2
@@ -26,15 +26,15 @@ def on_press(key):
 
 
 def display_controls():
-    print("// AutoClicker by iSayChris")
-    print("// - Settings: ")
+    print("// Ecua Cliker JEJE")
+    print("// - Opciones: ")
     print("\t delay = " + str(delay) + ' sec' + '\n')
-    print("// - Controls:")
-    print("\t F1 = Resume")
-    print("\t F2 = Pause")
-    print("\t F3 = Exit")
+    print("// - Controles:")
+    print("\t F1 = Reanudar")
+    print("\t F2 = Pausar")
+    print("\t F3 = Salir")
     print("-----------------------------------------------------")
-    print('Press F1 to start ...')
+    print('Presiona F1 para empezar ...')
 
 
 def main():
