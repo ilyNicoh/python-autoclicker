@@ -1,6 +1,5 @@
 # python-autoclicker
 A simple autoclicker with controls using pyautogui. 
-![Image](https://i.imgur.com/QIh8yAA.png)
 
 Default delay is 1 second.
 
