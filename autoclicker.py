@@ -26,7 +26,7 @@ def on_press(key):
 
 
 def display_controls():
-    print("// Ecua Cliker JEJE")
+    print("// shit clicker)
     print("// - Opciones: ")
     print("\t delay = " + str(delay) + ' sec' + '\n')
     print("// - Controles:")
