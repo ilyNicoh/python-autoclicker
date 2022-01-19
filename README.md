@@ -1,23 +1,19 @@
 # python-autoclicker
-A simple autoclicker with controls using pyautogui. 
+Simple autoclick que usa pyautogui. 
 
-Default delay is 1 second.
+El delay por default es de 1 segundo.
 
 **Note:**  
-As a fail-safe, moving your mouse to the very top left corner will exit the program.
+Si falla mueve el mouse a la esquina y cierra el programa.
 
 
-# Controls
+# Controles
 
 Key | Action
 --- | ---
-F1 | Resumes the autotyper
-F2 | Pauses the autotyper
-ESC | Exits the program
+F1 | Inicia el autoclick
+F2 | Pausa el autoclick
+ESC | Cierra el programa
 
-If you want to change the shortcut keys, change their values with the keycodes provided here:
+Si quieres cambiar los atajos usa las keycodes de este lugar:
 https://pythonhosted.org/pynput/keyboard.html
-
-
-# Future Enhancement
-* GUI
